@@ -285,3 +285,11 @@ textarea {
         page-break-after: avoid;
     }
 }
+body {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background: rgba(115, 149, 174, 0.5);
+    padding-top: 10px;
+}
